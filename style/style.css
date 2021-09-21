@@ -363,7 +363,17 @@ a {
   }
   .button-link {
     margin-right: 0;
+    margin-bottom: 10px;
   }
+
+  .menu-link {
+    font-size: 22px;
+  }
+
+  .is-open {
+    font-size: 25px;
+  }
+
   .close-btn {
     position: fixed;
     top: 0;
@@ -373,8 +383,13 @@ a {
     font-size: 50px;
     padding: 20px;
   }
+
   .logo-link {
     align-items: center;
+  }
+
+  .menu-item {
+    margin-bottom: 10px;
   }
 }
 
